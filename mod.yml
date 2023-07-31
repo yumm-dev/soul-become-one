@@ -17,7 +17,7 @@ assets:
   method: copy
   source:
   - name: souleater.mdlx
-- name: obj\item-300.imd
+- name: itempic\item-300.imd
   method: copy
   source:
   - name: souleater-render.imd
