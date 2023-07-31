@@ -1,5 +1,5 @@
 # Installation
-In your OpenKH Mod Manager window, press Insert or the green plus button and type in yumm-dev/soul-become-one. The installation will be done for you.
+In your OpenKH Mod Manager window, press Insert or the green plus button and type in **yumm-dev/soul-become-one**. The installation will be done for you.
 
 Once installed, make sure the box to the left of it is checked to enable it. Keep this mod above any mods that mess with the text read on TBCO's name, description, or stats.
 
